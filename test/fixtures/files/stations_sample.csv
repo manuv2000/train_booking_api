@@ -1,0 +1,5 @@
+stop_id,stop_name,location_type,stop_lat,stop_lon
+100,Warszawa Centralna,1,52.2297,21.0122
+101,Kraków Główny,1,50.0647,19.9450
+102,Warszawa Platform 2,0,52.2297,21.0122
+103,,1,52.1000,21.1000
